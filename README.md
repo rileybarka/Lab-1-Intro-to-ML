@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rileybarka/Lab-1-Intro-to-ML/blob/main/notebooks/Lab1.ipynb)
+
+
 Lab 1: Introduction to Machine Learning
 
 
